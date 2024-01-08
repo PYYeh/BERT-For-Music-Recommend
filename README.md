@@ -26,7 +26,7 @@ This project focuses on creating a music recommendation system that leverages Go
 ## Demo Video
 Watch a demo of the project in action: [BERT Music Recommendation Demo](https://youtu.be/54a0q762CI0).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/54a0q762CI0?si=DmwI05pGTOcHvxw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/embed/54a0q762CI0?si=DmwI05pGTOcHvxw4
 
 
 ### Primary Python Scripts
