@@ -42,6 +42,11 @@ Watch a demo of the project in action: [BERT Music Recommendation Demo](https://
 
 2. Set Spotify API credentials (Client ID and Client Secret) in `BERT_music_recomend_web.py`.
 
+    ```python
+    CLIENT_ID = "YOUR CLIENT_ID"
+    CLIENT_SECRET = "YOUR CLIENT_SECRET "
+   ```
+   
 3. To run the Streamlit app:
    ```bash
    streamlit run BERT_music_recomend_web.py
