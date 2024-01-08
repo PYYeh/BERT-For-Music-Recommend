@@ -47,9 +47,11 @@ emotion_classifier, sentiment_classifier = setup_classifiers()
 st.header('BERT Music Recommender System')
 
 # Text input
-user_input = st.text_area("Enter your text", "I love using transformers.")
+st.text('Put Your Mood ')
+user_input = st.text_area("Enter your text", "ex : I love transformers. / Today is Nice")
 
 # Emotion ratio sliders
+st.text('Lyrics Emotion Ratio Sliders')
 sadness = st.slider('Sadness', 0.0, 1.0, 0.5)
 joy = st.slider('Joy', 0.0, 1.0, 0.5)
 love = st.slider('Love', 0.0, 1.0, 0.5)
