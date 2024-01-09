@@ -17,10 +17,8 @@ This project focuses on creating a music recommendation system that leverages Go
     - This involves determining the relevance of each track to the conversation's context and emotional tone.
 4. **Relevance Ranking and Personalization:**
     - Ranking the retrieved music tracks based on their relevance to the analyzed chat content.
-    - Incorporating user-specific data for personalizing recommendations, thereby enhancing user experience.
 5. **User Interface Design:**
     - Designing an intuitive and user-friendly interface for displaying recommended music tracks.
-    - Providing options for users to give feedback, which helps in refining future recommendations.
 
 
 ## Demo Video
